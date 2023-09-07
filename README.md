@@ -21,7 +21,7 @@ This Streamlit application aims to analyze sentiments in sentences related to Mo
 
 | Code | Project Name | Published Article | Deployed App |
 |------------------|------------------|------------------|------------------|
-| LP5     |Sentiments Analysis     | https://medium.com/jaroyajo/fine-tuning-sentiment-analysis-models-for-covid-vaccine-tweet-sentiments-a-comprehensive-guide-cb2eb391b61c    | https://huggingface.co/spaces/UholoDala/Jj_Sentiment_Analysis_Ap     |
+| LP5     |Sentiments Analysis     | https://medium.com/jaroyajo/fine-tuning-sentiment-analysis-models-for-covid-vaccine-tweet-sentiments-a-comprehensive-guide-cb2eb391b61c    | https://huggingface.co/spaces/UholoDala/Movie_Sentiment_Pred     |
 
 
 
@@ -111,7 +111,7 @@ jaroyajo@gmail.com
 
 https://www.linkedin.com/in/jjaroya/
 
-https://github.com/Jauloma/Career_Accelerator_P5-NLP
+https://github.com/Jauloma/NLP_Movie_Sentiment
 
 2. Felix Kiprotich
 
