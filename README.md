@@ -19,9 +19,9 @@ This Streamlit application aims to analyze sentiments in sentences related to Mo
 
 ## Summary
 
-| Code | Project Name | Published Article | Deployed App |
+| Code | Project Name | PowerPoint Presentation | Deployed App |
 |------------------|------------------|------------------|------------------|
-| LP5     |Sentiments Analysis     | https://medium.com/jaroyajo/fine-tuning-sentiment-analysis-models-for-covid-vaccine-tweet-sentiments-a-comprehensive-guide-cb2eb391b61c    | https://huggingface.co/spaces/UholoDala/Movie_Sentiment_Pred     |
+| Capstone     |Movie Sentiments Analysis     | https://docs.google.com/presentation/d/1-yCcrxyVLI-jZROAXtiSz_PTBknqs0Zn/edit#slide=id.p50   | https://huggingface.co/spaces/UholoDala/Movie_Sentiment_Pred     |
 
 
 
